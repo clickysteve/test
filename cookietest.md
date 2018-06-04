@@ -21,33 +21,15 @@ We set cookies in a number of different locations across our services. These inc
 
 The table below explains the types of cookies we use on our websites and why we use them.
 
-**Category of cookies**
+|Category of cookies|Why we use these cookies|
+|---|---|
+|Strictly Necessary|These cookies are essential for websites on our services to perform their basic functions. These include those required to allow registered users to authenticate and perform account related functions, as well as to save the contents of virtual "carts" on sites that have an ecommerce functionality.|
+|Functionality|These cookies are used to store preferences set by users such as account name, language, and location.|
+|Security|We use these cookies to help identify and prevent potential security risks.|
+|Analytics and Performance|Performance cookies collect information on how users interact with our websites, including what pages are visited most, as well as other analytical data. We use these details to improve how our websites function and to understand how users interact with them.|
+|Advertising|These cookies are used to display relevant advertising to visitors who use our services or visit websites we host or provide, as well as to understand and report on the efficacy of ads served on our websites. They track details such as the number of unique visitors, the number of times particular ads have been displayed, and the number of clicks the ads have received. They are also used to build user profiles, including showing you ads based on products you’ve viewed or acts you have taken on our (and other) websites. These are set by Automattic and trusted third party networks, and are generally persistent in nature.|
+|Third Party / Embedded Content|Sites hosted on WordPress.com make use of different third party applications and services to enhance the experience of website visitors. These include social media platforms such as Facebook and Twitter (through the use of sharing buttons), or embedded content from Youtube and Vimeo. As a result, cookies may be set by these third parties, and used by them to track your online activity. We have no direct control over the information that is collected by these cookies.|
 
-**Why we use these cookies**
-
-Strictly Necessary
-
-These cookies are essential for websites on our services to perform their basic functions. These include those required to allow registered users to authenticate and perform account related functions, as well as to save the contents of virtual "carts" on sites that have an ecommerce functionality.
-
-Functionality
-
-These cookies are used to store preferences set by users such as account name, language, and location.
-
-Security
-
-We use these cookies to help identify and prevent potential security risks.
-
-Analytics and Performance
-
-Performance cookies collect information on how users interact with our websites, including what pages are visited most, as well as other analytical data. We use these details to improve how our websites function and to understand how users interact with them.
-
-Advertising
-
-These cookies are used to display relevant advertising to visitors who use our services or visit websites we host or provide, as well as to understand and report on the efficacy of ads served on our websites. They track details such as the number of unique visitors, the number of times particular ads have been displayed, and the number of clicks the ads have received. They are also used to build user profiles, including showing you ads based on products you’ve viewed or acts you have taken on our (and other) websites. These are set by Automattic and trusted third party networks, and are generally persistent in nature.
-
-Third Party / Embedded Content
-
-Sites hosted on WordPress.com make use of different third party applications and services to enhance the experience of website visitors. These include social media platforms such as Facebook and Twitter (through the use of sharing buttons), or embedded content from Youtube and Vimeo. As a result, cookies may be set by these third parties, and used by them to track your online activity. We have no direct control over the information that is collected by these cookies.
 
 ### User Sites
 
@@ -59,19 +41,11 @@ Below are examples of the cookies set by Automattic, with explanations of their 
 
 #### **Advertising**
 
-**Cookie**
-
-**Purpose**
-
-ads
-
-Tracks if a visitor has clicked an ad before.
-
-lr_nw
-
-Counts and tracks pageviews on Longreads.com. Used to determine whether or not to show our Membership popup message.
-
-wordpress_eli
+|Cookie|Purpose|
+|--- |--- |
+|ads|Tracks if a visitor has clicked an ad before.|
+|lr_nw|Counts and tracks pageviews on Longreads.com. Used to determine whether or not to show our Membership popup message.|
+|wordpress_eli|Reduces the display of ads for repeat visitors.|
 
 Reduces the display of ads for repeat visitors.
 
@@ -79,141 +53,55 @@ Please also see the section below on third party advertisements that you may see
 
 #### **Analytics and Performance**
 
-**Cookie**
-
-**Purpose**
-
-__pdvt
-
-Used in log of Polldaddy survey data to aid in debugging customer problems
-
-ab
-
-Used for "AB testing" of new features.
-
-nux\_flow\_name
-
-Identifies which user signup flow was shown to the user.
-
-tk\_ni / tk\_ai / tk_qs
-
-Gathers information for our own, first party analytics tool about how our services are used. A collection of internal metrics for user activity, used to improve user experience.
-
-wp-affiliate-tracker
-
-Remembers the ID of the affiliate that referred the current user to WordPress.com
-
-utma / utmb / utmc / utmt / utmz / ga / gat / gid
-
-Google Analytics. Gathers information that helps us understand how visitors interact with our websites, which allow us to create a better experience for our visitors. Our users may also implement Google Analytics on their own websites.
+|Cookie|Purpose|
+|--- |--- |
+|__pdvt|Used in log of Polldaddy survey data to aid in debugging customer problems|
+|ab|Used for "AB testing" of new features.|
+|nux_flow_name|Identifies which user signup flow was shown to the user.|
+|tk_ni / tk_ai / tk_qs|Gathers information for our own, first party analytics tool about how our services are used. A collection of internal metrics for user activity, used to improve user experience.|
+|wp-affiliate-tracker|Remembers the ID of the affiliate that referred the current user to WordPress.com|
+|utma / utmb / utmc / utmt / utmz / ga / gat / gid|Google Analytics. Gathers information that helps us understand how visitors interact with our websites, which allow us to create a better experience for our visitors. Our users may also implement Google Analytics on their own websites.|
 
 #### **Functionality**
 
-**Cookie**
-
-**Purpose**
-
-\_longreads\_prod_new
-
-Authentication for Longreads.com Member accounts. Only active when logged in, on *.longreads.com domains.
-
-akm_mobile
-
-Stores whether a user has chosen to view the mobile version of a website.
-
-botdlang
-
-Used to track the language a user has selected to view popular blogs in.
-
-landingpage_currency
-
-Defines the currency displayed in WordPress.com landing pages.
-
-pd_dashboard
-
-Records last used folder in Polldaddy dashboard so it can be reopened upon user’s next visit.
-
-PD\_USER\_AUTH
-
-Login cookie used to identify Polldaddy user.
-
-wordpress\_logged\_in*
-
-Checks whether or not the current visitor is a logged in WordPress.com user.
-
-wp-settings-{user_id}
-
-Persists a user’s wp-admin configuration.
-
-wp\_sharing\_{id}
-
-Tracks whether or not a user has already performed an action.
+|Cookie|Purpose|
+|--- |--- |
+|_longreads_prod_new|Authentication for Longreads.com Member accounts. Only active when logged in, on *.longreads.com domains.|
+|akm_mobile|Stores whether a user has chosen to view the mobile version of a website.|
+|botdlang|Used to track the language a user has selected to view popular blogs in.|
+|landingpage_currency|Defines the currency displayed in WordPress.com landing pages.|
+|pd_dashboard|Records last used folder in Polldaddy dashboard so it can be reopened upon user’s next visit.|
+|PD_USER_AUTH|Login cookie used to identify Polldaddy user.|
+|wordpress_logged_in*|Checks whether or not the current visitor is a logged in WordPress.com user.|
+|wp-settings-{user_id}|Persists a user’s wp-admin configuration.|
+|wp_sharing_{id}|Tracks whether or not a user has already performed an action.|
 
 #### **Security**
 
-**Cookie**
-
-**Purpose**
-
-csrftoken
-
-Python/Ajax security cookie used on accounts.longreads.com.
+|Cookie|Purpose|
+|--- |--- |
+|csrftoken|Python/Ajax security cookie used on accounts.longreads.com.|
 
 #### **Strictly Necessary**
 
-**Cookie**
-
-**Purpose**
-
-country_code
-
-Used in order to determine whether or not the cookie banner should be shown. Set immediately on page load and retained for 6 hours to remember the visitor's country.
-
-sensitive\_pixel\_option
-
-Remembers the state of visitor acceptance to the cookie banner. Only set when the visitor clicks Accept.
-
-twostep_auth
-
-Set when the user is logged in using two factor authentication.
-
-wordpress\_test\_cookie
-
-Checks if cookies are enabled to provide appropriate user experience.
+|Cookie|Purpose|
+|--- |--- |
+|country_code|Used in order to determine whether or not the cookie banner should be shown. Set immediately on page load and retained for 6 hours to remember the visitor's country.|
+|sensitive_pixel_option|Remembers the state of visitor acceptance to the cookie banner. Only set when the visitor clicks Accept.|
+|twostep_auth|Set when the user is logged in using two factor authentication.|
+|wordpress_test_cookie|Checks if cookies are enabled to provide appropriate user experience.|
 
 **Advertisements from Third Parties Through Automattic’s Ads Program** Our mission is to democratize publishing. So that we can offer free access to create a website using WordPress.com, we show ads on some of our users’ sites. Our users may also choose to place ads on their site through our ads program. Additionally, we also show ads from our ads program on some of our own websites (e.g. longreads.com). We operate our ads program in partnership with third party vendors. As part of the operation of our ads program, we use cookies to collect certain information. Advertising cookies enable us and our partners to serve ads and to personalize those ads based on information like visits to our sites and other sites on the Internet. Below is a representative list of our advertising program partners, along with information on the cookies that that each partner sets. The partners we work with change from time to time, and this is not an exhaustive list. Your choices to control cookies related to our ads program are described below.
 
-**Partner**
-
-**Cookie Info**
-
-Amazon
-
-[https://www.amazon.co.uk/gp/help/customer/display.html/ref=footer_iba?ie=UTF8&nodeId=201909150](https://www.amazon.co.uk/gp/help/customer/display.html/ref=footer_iba?ie=UTF8&nodeId=201909150)
-
-AppNexus
-
-[https://www.appnexus.com/en/company/cookie-policy](https://www.appnexus.com/en/company/cookie-policy)
-
-BidSwitch
-
-[http://www.bidswitch.com/cookie-statement/](http://www.bidswitch.com/cookie-statement/)
-
-Google (AdSense, DoubleClick Ad Exchange "AdX")
-
-[https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
-
-OATH
-
-[https://policies.oath.com/us/en/oath/privacy/topics/cookies/index.html](https://policies.oath.com/us/en/oath/privacy/topics/cookies/index.html)
-
-Pubmatic
-
-[https://pubmatic.com/legal/website-cookie-policy/](https://pubmatic.com/legal/website-cookie-policy/)
-
-Skimlinks
-
-[https://skimlinks.com/user-cookies](https://skimlinks.com/user-cookies)
+|Partner|Cookie Info|
+|--- |--- |
+|Amazon|https://www.amazon.co.uk/gp/help/customer/display.html/ref=footer_iba?ie=UTF8&nodeId=201909150|
+|AppNexus|https://www.appnexus.com/en/company/cookie-policy|
+|BidSwitch|http://www.bidswitch.com/cookie-statement/|
+|Google (AdSense, DoubleClick Ad Exchange "AdX")|https://policies.google.com/technologies/ads|
+|OATH|https://policies.oath.com/us/en/oath/privacy/topics/cookies/index.html|
+|Pubmatic|https://pubmatic.com/legal/website-cookie-policy/|
+|Skimlinks|https://skimlinks.com/user-cookies|
 
 ### Visitors to Sites with Jetpack installed
 
@@ -221,55 +109,30 @@ Below are examples of the cookies set for visitors to sites with the Jetpack plu
 
 #### **Jetpack Comments**
 
-Cookie Name
-
-Purpose
-
-comment\_author\_{HASH}
-
-Remembers the value entered into the [comment form](https://jetpack.com/support/comments/)'s **name** field. Specific to the site from which it is set. _This cookie mirrors one set by the core WordPress software [for commenting purposes](https://codex.wordpress.org/WordPress_Cookies)_.
-
-comment\_author\_email_{HASH}
-
-Remembers the value entered into the [comment form](https://jetpack.com/support/comments/)'s **email** field. Specific to the site from which it is set. _This cookie mirrors one set by the core WordPress software [for commenting purposes](https://codex.wordpress.org/WordPress_Cookies)_.
-
-comment\_author\_url_{HASH}
-
-Remembers the value entered into the [comment form](https://jetpack.com/support/comments/)'s **URL** field. Specific to the site from which it is set. _This cookie mirrors one set by the core WordPress software [for commenting purposes](https://codex.wordpress.org/WordPress_Cookies)_
+|Cookie Name|Purpose|
+|--- |--- |
+|comment_author_{HASH}|Remembers the value entered into the comment form's name field. Specific to the site from which it is set. This cookie mirrors one set by the core WordPress software for commenting purposes.|
+|comment_author_email_{HASH}|Remembers the value entered into the comment form's email field. Specific to the site from which it is set. This cookie mirrors one set by the core WordPress software for commenting purposes.|
+|comment_author_url_{HASH}|Remembers the value entered into the comment form's URL field. Specific to the site from which it is set. This cookie mirrors one set by the core WordPress software for commenting purposes|
 
 #### **Mobile Theme**
 
-Cookie Name
-
-Purpose
-
-akm_mobile
-
-Remembers whether or not a user wishes to view the [mobile version](https://jetpack.com/support/mobile-theme/) of a site.
+|Cookie Name|Purpose|
+|--- |--- |
+|akm_mobile|Remembers whether or not a user wishes to view the mobile version of a site.|
 
 #### **Subscriptions**
 
-Cookie Name
-
-Purpose
-
-jetpack\_comments\_subscribe_{HASH}
-
-Remembers the state of the [post and comment subscription](https://jetpack.com/support/subscriptions/) checkboxes.
-
-jetpack\_blog\_subscribe_{HASH}
-
-Remembers the state of the [post and comment subscription](https://jetpack.com/support/subscriptions/) checkboxes.
+|Cookie Name|Purpose|
+|--- |--- |
+|jetpack_comments_subscribe_{HASH}|Remembers the state of the post and comment subscription checkboxes.|
+|jetpack_blog_subscribe_{HASH}|Remembers the state of the post and comment subscription checkboxes.|
 
 #### **EU Cookie Law Banner**
 
-Cookie Name
-
-Purpose
-
-eucookielaw
-
-Remembers the state of visitor acceptance to the [EU Cookie Law banner](https://jetpack.com/support/extra-sidebar-widgets/eu-cookie-law-widget/).
+|Cookie Name|Purpose|
+|--- |--- |
+|eucookielaw|Remembers the state of visitor acceptance to the EU Cookie Law banner.|
 
 Please note that this section is not intended to be exhaustive, but rather aims to be representative, and that our users may set additional cookies (such as Google Analytics), depending on the features they have chosen to enable or the plugins they have installed.
 
